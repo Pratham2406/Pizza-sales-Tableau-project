@@ -21,5 +21,6 @@ Analyse Pizza restaurant sales data of the whole year.
 
 ### Dashboard
 
+![ProjectDashboard](https://user-images.githubusercontent.com/121120648/214035438-a9363817-7206-4a81-97d3-f643b6c98b7b.PNG)
 
 
