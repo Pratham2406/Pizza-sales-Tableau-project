@@ -5,7 +5,7 @@
 
 ### Business Task
 
-Analyse Pizza restaurant sales data of the whole year.
+Analysed Pizza restaurant sales data of the whole year.
 
 
 ### Dataset
